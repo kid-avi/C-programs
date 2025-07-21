@@ -38,5 +38,5 @@ Use GCC or any C compiler:
 gcc program_name.c -o program_name.exe     # compile
 ./program_name.exe                         # run
 Example:
-gcc SumOfTwo.c -o SumOfTwo.exe
-./SumOfTwo.exe
+gcc Sum.c -o Sum.exe
+./Sum.exe
