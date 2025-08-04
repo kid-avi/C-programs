@@ -9,4 +9,4 @@ int main() {
         printf("%d x %d = %d\n", num, i, num * i);
     }
     return 0;
-}
+} 
